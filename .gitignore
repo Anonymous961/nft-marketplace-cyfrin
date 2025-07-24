@@ -42,3 +42,5 @@ next-env.d.ts
 broadcast/
 .env.local
 .example.request
+
+marketplaceIndexer/generated_csv/*
